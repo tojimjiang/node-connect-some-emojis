@@ -1,0 +1,25 @@
+{
+  "name": "connect-some-emojis",
+  "version": "1.0.0",
+  "description": "tojimjiang\r Homework #01 - Connectmoji",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tojimjiang/node-connect-some-emojis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tojimjiang/node-connect-some-emojis/issues"
+  },
+  "homepage": "https://github.com/tojimjiang/node-connect-some-emojis#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "readline-sync": "^1.4.9",
+    "wcwidth": "^1.0.1"
+  }
+}
